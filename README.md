@@ -1,8 +1,8 @@
 <!-- RAINBOW LINE TOP -->
-<img src="https://raw.githubusercontent.com/juacardonahe/juacardonahe/refs/heads/main/banner-header1.gif" width="100%">
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 <!-- GIF HEADER -->
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-header.gif">
+<img src="https://raw.githubusercontent.com/juacardonahe/juacardonahe/refs/heads/main/banner-header1.gif">
 
 <!-- VISTAS DEL PERFIL -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juacardonahe&label=Profile%20views&color=0e75b6&style=flat" alt="juacardonahe" /> </p>
