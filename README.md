@@ -13,7 +13,7 @@
 <!-- BREVE DESCRIPCION -->
 - 📚 I am currently studying at [Universidad Nacional de Colombia (UNAL)](https://unal.edu.co)
 
-- 🌱 I am currently in the race **Electrical Engineering**
+- 🌱 I am currently pursuing a degree in **Electrical Engineering**
 
 - 🏙 Creator of the [El Estudiante de Ingeniería](https://www.youtube.com/@ElEstudianteIng)
 
