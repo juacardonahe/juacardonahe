@@ -7,9 +7,6 @@
 <!-- VISTAS DEL PERFIL -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juacardonahe&label=Profile%20views&color=0e75b6&style=flat" alt="juacardonahe" /> </p>
 
-<!-- TROFEOS GITHUB -->
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=juacardonahe&theme=dracula&column=7" alt="juacardonahe" /></a> </p>
-
 <!-- BREVE DESCRIPCION -->
 - 📚 I am currently studying at [Universidad Nacional de Colombia (UNAL)](https://unal.edu.co)
 
