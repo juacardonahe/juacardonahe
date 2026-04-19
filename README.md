@@ -17,24 +17,6 @@
 
 - 🏙 Creator of the [IngX](https://www.youtube.com/@Ing.X1)
 
-<!-- CONTACTO -->
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/juacardonahe/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Juan Cardona" height="30" width="40" /></a>
-<a href="https://twitter.com/x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@x" height="30" width="40" /></a>
-<a href="Ousucks.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="u sure?" height="30" width="40" /></a>
-</p>
-
-<!-- LENGUAJES Y HERRAMIENTAS -->
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg" alt="Python" width="40" height="40"/> </a> <a href="https://matlab.mathworks.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/matlab.svg" alt="matlab" width="40" height="40"/> </a> <a href="https://colab.research.google.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" alt="colab" width="40" height="40"/> </a> <a href="https://www.autodesk.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/AutoCad_new_logo.svg" alt="autocad" width="40" height="40"/> </a> <a href="https://www.ansys.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/14/Ansys_logo_%282019%29.svg" alt="ansys" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/de/Multisim_logo.jpg" alt="multisim" width="40" height="40"/> </a> <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="visual_studio_code" width="40" height="40"/> </a> <a href="https://www.adobe.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="Photoshop" width="40" height="40"/> </a> <a href="https://www.adobe.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/b6/Adobe_Photoshop_Lightroom_CC_logo.svg" alt="lightroom" width="40" height="40"/> </a> <a href="https://www.adobe.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" alt="Illustrator" width="40" height="40"/> </a> <a href="https://www.blackmagicdesign.com/products/davinciresolve" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/90/DaVinci_Resolve_17_logo.svg" alt="Illustrator" width="40" height="40"/> </a> </p>
-
-<!-- STATS Y LENGUAJES MAS USADOS -->
-<div style="display:grid;align-items:center;justify-content:center">
-  <img style="height:100%;width:49%;max-width: 100%" src="https://github-readme-stats.vercel.app/api?username=juacardonahe&theme=gotham&count_private=true&show_icons=true&include_all_commits=true"/>
-  <img style="height:100%;width:49%;max-width: 10%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juacardonahe&layout=compact&theme=gotham&langs_count=8"/>
-</div>
-
 <!-- GIF FOOTER -->
 <img src="https://raw.githubusercontent.com/juacardonahe/juacardonahe/refs/heads/main/banner-footer.gif">
 
