@@ -15,17 +15,14 @@
 
 - 🌱 I am currently pursuing a degree in **Electrical Engineering**
 
-- 🏙 Creator of the [El Estudiante de Ingeniería](https://www.youtube.com/@ElEstudianteIng)
-
-- 📫 How to reach me **juacardonahe@unal.edu.co**
+- 🏙 Creator of the [IngX](https://www.youtube.com/@Ing.X1)
 
 <!-- CONTACTO -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/juacardonahe/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Juan Cardona" height="30" width="40" /></a>
-<a href="http://discordapp.com/users/no.u_mr.robot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="x#01" height="30" width="40" /></a>
 <a href="https://twitter.com/x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@x" height="30" width="40" /></a>
-<a href="https://instagram.com/juan.cardonah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Juan Cardona" height="30" width="40" /></a>
+<a href="Ousucks.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="u sure?" height="30" width="40" /></a>
 </p>
 
 <!-- LENGUAJES Y HERRAMIENTAS -->
